@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2019-5-26</folder>
+	<filename>062.jpg</filename>
+	<path>/Users/HawkTorng/labelImg/photo/2019-5-26/062.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>212</width>
+		<height>238</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>17</ymin>
+			<xmax>171</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

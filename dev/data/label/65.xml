@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2019-5-26</folder>
+	<filename>65.jpg</filename>
+	<path>/Users/HawkTorng/labelImg/photo/2019-5-26/65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>7</ymin>
+			<xmax>148</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>

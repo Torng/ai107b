@@ -1,0 +1,9 @@
+classes= 2
+
+train  = /Users/HawkTorng/darknet/dev/data/cfg/train.txt
+
+valid  = /Users/HawkTorng/darknet/dev/data/cfg/test.txt
+
+names = /Users/HawkTorng/darknet/dev/data/cfg/obj.names
+
+backup = /Users/HawkTorng/darknet/dev/data/cfg/weights/
